@@ -41,8 +41,8 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="4.338983"
-     inkscape:cy="15.898655"
+     inkscape:cx="-11.186441"
+     inkscape:cy="15.627469"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -77,4 +77,14 @@
      id="path2985"
      style="fill:#37abc8;fill-opacity:1;stroke:none"
      sodipodi:type="arc" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#f4d7d7;fill-opacity:1;stroke:none"
+     id="path2986"
+     sodipodi:cx="15.864407"
+     sodipodi:cy="43.389832"
+     sodipodi:rx="1.7627119"
+     sodipodi:ry="1.7627119"
+     d="m 17.627118,43.389832 a 1.7627119,1.7627119 0 1 1 -3.525423,0 1.7627119,1.7627119 0 1 1 3.525423,0 z"
+     transform="translate(8.1355934,-19.389832)" />
 </svg>
