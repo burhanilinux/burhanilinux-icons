@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="format-text-italic.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="664"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#6058a0;fill-opacity:1"
+     d="M 71.996094 48 L 71.996094 80 L 167.996094 80 C 174.847656 80 177.5 84.277344 175.496094 91.5 L 169.996094 112 L 85.996094 112 C 56.582031 112 35.996094 133.636719 29.996094 156 C 26.996094 167.179688 27.402344 179.660156 33.996094 190.5 C 40.59375 201.339844 53.964844 208 68.496094 208 L 176.496094 208 L 179.996094 196.5 L 206.496094 100.5 C 213.453125 75.398438 194.878906 48 167.996094 48 Z M 85.996094 144 L 160.996094 144 L 151.996094 176 L 68.496094 176 C 62.132812 176 61.703125 174.660156 60.996094 173.5 C 60.289062 172.339844 59.703125 168.820312 60.996094 164 C 63.582031 154.363281 72.480469 144 85.996094 144 Z "
+     id="path4" />
+</svg>
