@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="28.806745"
+     inkscape:cy="28.57265"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <text
+       xml:space="preserve"
+       style="font-size:33.78100586px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="0.71079659"
+       y="831.58612"
+       id="text2985"
+       sodipodi:linespacing="125%"
+       transform="scale(0.79589749,1.2564432)"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="0.71079659"
+         y="831.58612"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgMono;-inkscape-font-specification:TlwgMono Medium">Abc</tspan></text>
+    <g
+       id="g2999"
+       transform="matrix(0.49999998,0,0,0.49999998,24,1004.3622)">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="layer1-2"
+         inkscape:label="Background">
+        <path
+           transform="matrix(1.0110123,0,0,1.0110123,-5.617023,994.64212)"
+           d="m 53.033009,33.352787 c 0,13.110458 -10.628127,23.738585 -23.738585,23.738585 -13.110458,0 -23.7385845,-10.628127 -23.7385845,-23.738585 0,-13.110458 10.6281265,-23.7385845 23.7385845,-23.7385845 13.110458,0 23.738585,10.6281265 23.738585,23.7385845 z"
+           sodipodi:ry="23.738585"
+           sodipodi:rx="23.738585"
+           sodipodi:cy="33.352787"
+           sodipodi:cx="29.294424"
+           id="path2985"
+           style="fill:#ffcc00;fill-opacity:1;stroke:none"
+           sodipodi:type="arc" />
+        <g
+           transform="translate(9.3106799e-8,2.7885161)"
+           id="g3011">
+          <rect
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             id="rect2988"
+             width="7.8286824"
+             height="15.404827"
+             x="20.085659"
+             y="1008.8807"
+             ry="2.3524613"
+             rx="3.9143412" />
+          <path
+             sodipodi:type="star"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             id="path2990"
+             sodipodi:sides="3"
+             sodipodi:cx="69.700523"
+             sodipodi:cy="38.277283"
+             sodipodi:r1="12.677943"
+             sodipodi:r2="6.260633"
+             sodipodi:arg1="-2.6179939"
+             sodipodi:arg2="-1.5707963"
+             inkscape:flatsided="false"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 58.721102,31.938311 10.979422,0.07834 10.97942,-0.07834 -5.557553,9.469288 -5.421867,9.547627 -5.421868,-9.547627 z"
+             transform="matrix(1.2760125,0,0,0.867744,-64.938739,998.0506)"
+             inkscape:transform-center-y="2.7503178" />
+        </g>
+      </g>
+      <g
+         inkscape:label="Arrow"
+         id="layer2" />
+    </g>
+  </g>
+</svg>
