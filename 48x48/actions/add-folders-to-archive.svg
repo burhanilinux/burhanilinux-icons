@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="add-files-to-archive.svg">
+   sodipodi:docname="add-folders-to-archive.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="21.41229"
+     inkscape:cx="10.251576"
      inkscape:cy="24.945807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="850"
+     inkscape:window-height="834"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,21 +61,21 @@
        sodipodi:rx="18.814091"
        sodipodi:ry="18.814091"
        d="m 39.648487,26.660528 a 18.814091,18.814091 0 1 1 -37.6281814,0 18.814091,18.814091 0 1 1 37.6281814,0 z"
-       transform="matrix(0.61124396,0,0,0.61124396,23.515101,1022.0483)" />
+       transform="matrix(0.63781979,0,0,0.63781428,22.71141,1023.3578)" />
     <rect
        style="fill:#ffffff;stroke:none"
        id="rect2987"
-       width="3.0251963"
-       height="13.794896"
-       x="34.737404"
-       y="1031.4469"
-       ry="2.1028802" />
+       width="3.1567266"
+       height="14.39455"
+       x="34.421638"
+       y="1033.165"
+       ry="2.1942909" />
     <rect
-       ry="2.1305497"
-       y="-43.238205"
-       x="1036.8317"
-       height="13.976407"
-       width="3.0251963"
+       ry="2.2231822"
+       y="-43.292042"
+       x="1038.7838"
+       height="14.584077"
+       width="3.1566994"
        id="rect2989"
        style="fill:#ffffff;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
@@ -203,21 +203,21 @@
        sodipodi:rx="18.814091"
        sodipodi:ry="18.814091"
        d="m 39.648487,26.660528 a 18.814091,18.814091 0 1 1 -37.6281814,0 18.814091,18.814091 0 1 1 37.6281814,0 z"
-       transform="matrix(0.61124396,0,0,0.61124396,23.5151,1022.0481)" />
+       transform="matrix(0.63781979,0,0,0.63781428,22.711409,1023.3576)" />
     <rect
        style="fill:#ffffff;stroke:none"
        id="rect2987-4"
-       width="3.0251963"
-       height="13.794896"
-       x="34.7374"
-       y="1031.4468"
-       ry="2.1028802" />
+       width="3.1567266"
+       height="14.39455"
+       x="34.421635"
+       y="1033.1649"
+       ry="2.1942909" />
     <rect
-       ry="2.1305497"
-       y="-43.238205"
-       x="1036.8314"
-       height="13.976407"
-       width="3.0251963"
+       ry="2.2231822"
+       y="-43.292042"
+       x="1038.7836"
+       height="14.584077"
+       width="3.1566994"
        id="rect2989-9"
        style="fill:#ffffff;stroke:none"
        transform="matrix(0,1,-1,0,0,0)" />
