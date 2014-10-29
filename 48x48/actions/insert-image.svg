@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9195959"
-     inkscape:cx="-2.4106736"
+     inkscape:cx="-18.194307"
      inkscape:cy="19.372871"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -69,7 +69,7 @@
        sodipodi:rx="2.588516"
        sodipodi:ry="2.588516"
        d="m 51.896587,24.19828 a 2.588516,2.588516 0 1 1 -5.177032,0 2.588516,2.588516 0 1 1 5.177032,0 z"
-       transform="matrix(2.091961,0,0,2.0865965,-94.178667,-40.096999)" />
+       transform="matrix(1.6529366,0,0,1.6486979,-49.802789,-30.008597)" />
     <path
        sodipodi:type="star"
        style="fill:#d45500;stroke:#ffffff;stroke-opacity:1"
@@ -123,7 +123,7 @@
        transform="matrix(1.008954,0,0,0.64839789,47.023323,10.020036)" />
     <g
        id="g3779"
-       transform="matrix(0.49999998,0,0,0.49999998,24,1.5092132e-6)">
+       transform="matrix(0.49999998,0,0,0.49999998,24,24.000002)">
       <g
          transform="translate(0,-1004.3622)"
          id="layer1-4"
