@@ -1,3 +1,54 @@
-<svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path style="fill:#859900;fill-rule:evenodd" d="M 24.085938 10.25 L 10.335938 21.25 C 7.578125 24.007812 7.585938 24 10.335938 26.75 L 24.085938 37.75 C 26 39.285156 26 38.714844 26 34.917969 C 26.039062 33.542969 26.085938 32 26 30 C 26.03125 30 25.96875 30 26 30 C 39.664062 30 46.085938 21.25 46 10.164062 C 40.585938 15.75 34.25 18.171875 26 18 C 26 16.03125 26.039062 15.328125 26 14 C 26 12 26 8.890625 24.085938 10.25 Z "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="mail-reply-sender.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#008000;fill-rule:evenodd"
+     d="M 24.085938 10.25 L 10.335938 21.25 C 7.578125 24.007812 7.585938 24 10.335938 26.75 L 24.085938 37.75 C 26 39.285156 26 38.714844 26 34.917969 C 26.039062 33.542969 26.085938 32 26 30 C 26.03125 30 25.96875 30 26 30 C 39.664062 30 46.085938 21.25 46 10.164062 C 40.585938 15.75 34.25 18.171875 26 18 C 26 16.03125 26.039062 15.328125 26 14 C 26 12 26 8.890625 24.085938 10.25 Z "
+     id="path4" />
 </svg>
