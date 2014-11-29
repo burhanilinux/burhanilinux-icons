@@ -1,0 +1,31 @@
+[Icon Theme]
+Name=Burhanilinux-icons
+Comment=Burhani Linux Icon Set
+
+Inherits=
+
+Example=directory-x-normal
+
+# Directory list
+Directories=48x48/apps,48x48/places,48x48/actions
+
+[48x48/apps]
+Size=48
+Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[48x48/places]
+Size=48
+Context=Places
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[48x48/actions]
+Size=48
+Context=Actions
+MinSize=8
+MaxSize=512
+Type=Scalable
