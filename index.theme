@@ -7,11 +7,53 @@ Inherits=
 Example=directory-x-normal
 
 # Directory list
-Directories=48x48/apps,48x48/places,48x48/actions
+Directories=48x48/actions,48x48/animations,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/mimetypes,48x48/places,48x48/status
+
+[48x48/actions]
+Size=48
+Context=Actions
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[48x48/animations]
+Size=48
+Context=Animations
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [48x48/apps]
 Size=48
 Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[48x48/categories]
+Size=48
+Context=Categories
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[48x48/devices]
+Size=48
+Context=Devices
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[48x48/emblems]
+Size=48
+Context=Emblems
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[48x48/mimetypes]
+Size=48
+Context=MimeTypes
 MinSize=8
 MaxSize=512
 Type=Scalable
@@ -23,9 +65,9 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[48x48/actions]
+[48x48/status]
 Size=48
-Context=Actions
+Context=Status
 MinSize=8
 MaxSize=512
 Type=Scalable
