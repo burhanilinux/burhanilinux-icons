@@ -1,5 +1,93 @@
-<svg width="47.5" xmlns="http://www.w3.org/2000/svg" height="47.5" viewBox="0 0 38 38" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g style="fill:#6eb2c8">
-<use x="6.355" y="33.968"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="47.5"
+   height="47.5"
+   viewBox="0 0 38 38"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="applications-fonts.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="4.9684211"
+     inkscape:cx="0.90572034"
+     inkscape:cy="23.347458"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     style="fill:#6eb2c8"
+     id="g4">
+    <use
+       x="6.355"
+       y="33.968"
+       id="use6" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="11.856091"
+     y="25.099092"
+     id="text2989"
+     sodipodi:linespacing="125%"
+     transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan2991"
+       x="11.856091"
+       y="25.099092">B</tspan></text>
+  <path
+     sodipodi:type="arc"
+     style="fill:#ff8080;fill-opacity:1;stroke:none"
+     id="path2993"
+     sodipodi:cx="-31.29767"
+     sodipodi:cy="57.060383"
+     sodipodi:rx="11.573093"
+     sodipodi:ry="11.573093"
+     d="m -19.724577,57.060383 a 11.573093,11.573093 0 1 1 -23.146187,0 11.573093,11.573093 0 1 1 23.146187,0 z"
+     transform="matrix(1.6590206,0,0,1.6590206,70.92348,-75.664351)" />
+  <text
+     transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+     sodipodi:linespacing="125%"
+     id="text2995"
+     y="22.443029"
+     x="13.926153"
+     style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       y="22.443029"
+       x="13.926153"
+       id="tspan2997"
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono">B</tspan></text>
 </svg>

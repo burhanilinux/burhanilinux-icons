@@ -1,28 +1,164 @@
-<svg width="47.5" xmlns="http://www.w3.org/2000/svg" height="47.5" viewBox="0 0 38 38" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<clipPath id="clip2">
-<path d="M 11 8.523438 L 31 8.523438 L 31 29.476562 L 11 29.476562 Z "/>
-</clipPath>
-<clipPath id="clip1">
-<path d="M 4.15625 8.523438 L 17 8.523438 L 17 29.476562 L 4.15625 29.476562 Z "/>
-</clipPath>
-<clipPath id="clip4">
-<path d="M 22 14 L 33.84375 14 L 33.84375 19 L 22 19 Z "/>
-</clipPath>
-<clipPath id="clip3">
-<path d="M 25 19 L 33.84375 19 L 33.84375 24 L 25 24 Z "/>
-</clipPath>
-</defs>
-<g style="clip-path:url(#clip1)">
-<path style="fill:#4fb09e" d="M 4.15625 29.476562 L 11.140625 19 L 4.15625 8.523438 L 9.394531 8.523438 L 16.378906 19 L 9.394531 29.476562 Z "/>
-</g>
-<g style="clip-path:url(#clip2)">
-<path style="fill:#4fb09e" d="M 11.140625 29.476562 L 18.125 19 L 11.140625 8.523438 L 16.378906 8.523438 L 30.351562 29.476562 L 25.113281 29.476562 L 20.746094 22.929688 L 16.378906 29.476562 Z "/>
-</g>
-<g style="clip-path:url(#clip3)">
-<path style="fill:#4fb09e" d="M 28.023438 23.367188 L 25.695312 19.875 L 33.84375 19.871094 L 33.84375 23.367188 Z "/>
-</g>
-<g style="clip-path:url(#clip4)">
-<path style="fill:#4fb09e" d="M 24.53125 18.125 L 22.203125 14.632812 L 33.84375 14.632812 L 33.84375 18.125 Z "/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="47.5"
+   height="47.5"
+   viewBox="0 0 38 38"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="applications-haskell.svg">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="848"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="4.9684211"
+     inkscape:cx="-8.2521186"
+     inkscape:cy="23.347458"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip2">
+      <path
+         d="M 11 8.523438 L 31 8.523438 L 31 29.476562 L 11 29.476562 Z "
+         id="path7" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <path
+         d="M 4.15625 8.523438 L 17 8.523438 L 17 29.476562 L 4.15625 29.476562 Z "
+         id="path10" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <path
+         d="M 22 14 L 33.84375 14 L 33.84375 19 L 22 19 Z "
+         id="path13" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         d="M 25 19 L 33.84375 19 L 33.84375 24 L 25 24 Z "
+         id="path16" />
+    </clipPath>
+  </defs>
+  <g
+     id="g3783">
+    <g
+       clip-path="url(#clip1)"
+       id="g18"
+       style="clip-path:url(#clip1)">
+      <path
+         id="path20"
+         d="M 4.15625 29.476562 L 11.140625 19 L 4.15625 8.523438 L 9.394531 8.523438 L 16.378906 19 L 9.394531 29.476562 Z "
+         style="fill:#4fb09e" />
+    </g>
+    <g
+       clip-path="url(#clip2)"
+       id="g22"
+       style="clip-path:url(#clip2)">
+      <path
+         id="path24"
+         d="M 11.140625 29.476562 L 18.125 19 L 11.140625 8.523438 L 16.378906 8.523438 L 30.351562 29.476562 L 25.113281 29.476562 L 20.746094 22.929688 L 16.378906 29.476562 Z "
+         style="fill:#4fb09e" />
+    </g>
+    <g
+       clip-path="url(#clip3)"
+       id="g26"
+       style="clip-path:url(#clip3)">
+      <path
+         id="path28"
+         d="M 28.023438 23.367188 L 25.695312 19.875 L 33.84375 19.871094 L 33.84375 23.367188 Z "
+         style="fill:#4fb09e" />
+    </g>
+    <g
+       clip-path="url(#clip4)"
+       id="g30"
+       style="clip-path:url(#clip4)">
+      <path
+         id="path32"
+         d="M 24.53125 18.125 L 22.203125 14.632812 L 33.84375 14.632812 L 33.84375 18.125 Z "
+         style="fill:#4fb09e" />
+    </g>
+  </g>
+  <path
+     sodipodi:type="arc"
+     style="fill:#4fb09e;fill-opacity:1;stroke:none"
+     id="path3013"
+     sodipodi:cx="-35.004169"
+     sodipodi:cy="24.856991"
+     sodipodi:rx="34.031849"
+     sodipodi:ry="21.032839"
+     d="m -0.97232056,24.856991 a 34.031849,21.032839 0 1 1 -68.06369744,0 34.031849,21.032839 0 1 1 68.06369744,0 z"
+     transform="matrix(0.5641774,0,0,0.91285823,38.748561,-3.6909086)" />
+  <g
+     id="g3793"
+     style="fill:#ffffff">
+    <g
+       style="clip-path:url(#clip1);fill:#ffffff"
+       id="g3795"
+       clip-path="url(#clip1)">
+      <path
+         style="fill:#ffffff"
+         d="M 4.15625 29.476562 L 11.140625 19 L 4.15625 8.523438 L 9.394531 8.523438 L 16.378906 19 L 9.394531 29.476562 Z "
+         id="path3797" />
+    </g>
+    <g
+       style="clip-path:url(#clip2);fill:#ffffff"
+       id="g3799"
+       clip-path="url(#clip2)">
+      <path
+         style="fill:#ffffff"
+         d="M 11.140625 29.476562 L 18.125 19 L 11.140625 8.523438 L 16.378906 8.523438 L 30.351562 29.476562 L 25.113281 29.476562 L 20.746094 22.929688 L 16.378906 29.476562 Z "
+         id="path3801" />
+    </g>
+    <g
+       style="clip-path:url(#clip3);fill:#ffffff"
+       id="g3803"
+       clip-path="url(#clip3)">
+      <path
+         style="fill:#ffffff"
+         d="M 28.023438 23.367188 L 25.695312 19.875 L 33.84375 19.871094 L 33.84375 23.367188 Z "
+         id="path3805" />
+    </g>
+    <g
+       style="clip-path:url(#clip4);fill:#ffffff"
+       id="g3807"
+       clip-path="url(#clip4)">
+      <path
+         style="fill:#ffffff"
+         d="M 24.53125 18.125 L 22.203125 14.632812 L 33.84375 14.632812 L 33.84375 18.125 Z "
+         id="path3809" />
+    </g>
+  </g>
 </svg>
